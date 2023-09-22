@@ -3,3 +3,4 @@ djangorestframework
 numpy
 scikit-learn
 joblib
+pandas
