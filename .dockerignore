@@ -1,0 +1,14 @@
+.dockerignore
+.postman/
+.envs/
+.nginx/
+Dockerfile.*
+Dockerfile
+*.yml
+*.git
+*.gitignore
+*.idea
+*.md
+*.sqlite3
+logs/*
+media/*
